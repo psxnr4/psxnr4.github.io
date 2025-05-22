@@ -77,4 +77,4 @@ var customStyle = '';
 /* var citations = {
     minCitationCount: 5
 }; */
-var citations = null;
+var citations = false;

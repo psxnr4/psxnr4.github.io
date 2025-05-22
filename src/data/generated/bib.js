@@ -1,34 +1,10 @@
 ﻿define({ entries : {
-    "6854524": {
-        "author": "Le, Duc and Licata, Keli and Mercado, Elizabeth and Persad, Carol and Provost, Emily Mower",
-        "booktitle": "2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
-        "doi": "10.1109/ICASSP.2014.6854524",
-        "keywords": "Speech,Feature extraction,Acoustics,Medical treatment,Radio frequency,Niobium,Speech processing,aphasia,speech-language disorder,machine learning,clinical application",
-        "number": "",
-        "pages": "4853-4857",
-        "title": "Automatic analysis of speech quality for aphasia treatment",
-        "type": "INPROCEEDINGS",
-        "volume": "",
-        "year": "2014"
-    },
-    "8917247": {
-        "author": "Qin, Ying and Lee, Tan and Kong, Anthony Pak Hin",
-        "doi": "10.1109/JSTSP.2019.2956371",
-        "journal": "IEEE Journal of Selected Topics in Signal Processing",
-        "keywords": "Feature extraction,Acoustics,Task analysis,Speech processing,Speech recognition,Robustness,Linguistics,Pathological speech assessment,aphasia,Cantonese,automatic speech recognition,deep neural network (DNN)",
-        "number": "2",
-        "pages": "331-345",
-        "title": "Automatic Assessment of Speech Impairment in Cantonese-Speaking People with Aphasia",
-        "type": "ARTICLE",
-        "volume": "14",
-        "year": "2020"
-    },
-    "ABAD20131235": {
-        "author": "Alberto Abad and Anna Pompili and Angela Costa and Isabel Trancoso and Jos\u00e9 Fonseca and Gabriela Leal and Luisa Farrajota and Isabel P. Martins",
+    "Abad2013": {
+        "author": "Abad, Alberto and Pompili, Anna and Costa, Angela and Trancoso, Isabel and Fonseca, Jos\u00e9 and Leal, Gabriela and Farrajota, Luisa and Martins, Isabel P.",
         "doi": "https://doi.org/10.1016/j.csl.2012.10.003",
         "issn": "0885-2308",
         "journal": "Computer Speech & Language",
-        "keywords": "Aphasia, Word naming, speech disorder, Virtual therapy",
+        "keywords": "type:web-application, Aphasia, Word naming, speech disorder, Virtual therapy",
         "note": "Special Issue on Speech and Language Processing for Assistive Technology",
         "number": "6",
         "pages": "1235-1248",
@@ -38,12 +14,12 @@
         "volume": "27",
         "year": "2013"
     },
-    "BARBERA2021101221": {
-        "author": "David S. Barbera and Mark Huckvale and Victoria Fleming and Emily Upton and Henry Coley-Fisher and Catherine Doogan and Ian Shaw and William Latham and Alexander P. Leff and Jenny Crinion",
+    "Barbera2021": {
+        "author": "Barbera, David S. and Huckvale, Mark and Fleming, Victoria and Upton, Emily and Coley-Fisher, Henry and Doogan, Catherine and Shaw, Ian and Latham, William  and Leff, Alexander P. and Crinion, Jenny",
         "doi": "https://doi.org/10.1016/j.csl.2021.101221",
         "issn": "0885-2308",
         "journal": "Computer Speech & Language",
-        "keywords": "Speech disorders, Word naming, Aphasia, Anomia, Speech recognition, Dynamic Time Warping",
+        "keywords": "type:web-application, Speech disorders, Word naming, Aphasia, Anomia, Speech recognition, Dynamic Time Warping",
         "pages": "101221",
         "title": "NUVA: A Naming Utterance Verifier for Aphasia Treatment",
         "type": "article",
@@ -51,12 +27,12 @@
         "volume": "69",
         "year": "2021"
     },
-    "FRASER201443": {
-        "author": "Kathleen C. Fraser and Jed A. Meltzer and Naida L. Graham and Carol Leonard and Graeme Hirst and Sandra E. Black and Elizabeth Rochon",
+    "Fraser2014": {
+        "author": "Fraser, Kathleen C. and Meltzer, Jed A. and Graham, Naida L. and Leonard, Carol  and Hirst, Graeme  and Black, Sandra E.  and Rochon,Elizabeth",
         "doi": "https://doi.org/10.1016/j.cortex.2012.12.006",
         "issn": "0010-9452",
         "journal": "Cortex",
-        "keywords": "Semantic dementia, Progressive nonfluent aphasia, Narrative speech, Natural language processing, Machine learning",
+        "keywords": "type:classification, Semantic dementia, Progressive nonfluent aphasia, Narrative speech, Natural language processing, Machine learning",
         "note": "Language, Computers and Cognitive Neuroscience",
         "pages": "43-60",
         "title": "Automated classification of primary progressive aphasia subtypes from narrative speech transcripts",
@@ -65,23 +41,81 @@
         "volume": "55",
         "year": "2014"
     },
-    "Khan": {
+    "Herath2022": {
+        "article-number": "6966",
+        "author": "Herath, Herath Mudiyanselage Dhammike Piyumal Madhurajith and Weraniyagoda, Weraniyagoda Arachchilage Sahanaka Anuththara and Rajapaksha, Rajapakshage Thilina Madhushan and Wijesekara, Patikiri Arachchige Don Shehan Nilmantha and Sudheera, Kalupahana Liyanage Kushan and Chong, Peter Han Joo",
+        "doi": "10.3390/s22186966",
+        "issn": "1424-8220",
+        "journal": "Sensors",
+        "keywords": " type:classification, type:web-application, aphasia, severity level, deep neural networks, mel frequency cepstral coefficients, audio sensors, speech therapy",
+        "number": "18",
+        "pubmedid": "36146316",
+        "title": "Automatic Assessment of Aphasic Speech Sensed by Audio Sensors for Classification into Aphasia Severity Levels to Recommend Speech Therapies",
+        "type": "article",
+        "url": "https://www.mdpi.com/1424-8220/22/18/6966",
+        "volume": "22",
+        "year": "2022"
+    },
+    "J\u00e4rvelin2004": {
+        "author": "J\u00e4rvelin, Antti and Juhola, Martti and Laine, Matti",
+        "doi": "10.3233/978-1-60750-949-3-48",
+        "journal": "Studies in Health Technology and Informatics",
+        "keywords": "type:simulation",
+        "pages": "48 - 51",
+        "title": "A Neural Network Model of Lexicalization for Simulating the Anomie Naming Errors of Dementia Patients",
+        "type": "article",
+        "volume": "107",
+        "year": "2004"
+    },
+    "Khan2017": {
         "author": "Khan, Murad and Silva, Bhagya Nathali and Ahmed, Syed Hassan and Ahmad, Awais and Din, Sadia and Song, Houbing",
         "booktitle": "2017 IEEE International Conference on Communications (ICC)",
-        "doi": "10.1109/ICC.2017.7996967 %A Neural Network Model of Lexicalization for Simulating the Anomie Naming Errors of Dementia PatientsAuthorsAntti J\u00e4rvelin, Martti Juhola, Matti LainePages48 - 51DOI10.3233/978-1-60750-949-3-48SeriesStudies in Health Technology and InformaticsEbookVolume 107: MEDINFO 2004",
-        "keywords": "Speech,Acoustics,Manuals,Feature extraction,Software,Digital signal processing,Semantics,Aphasia,Automated aphasia diagnosis,Acoustic properties,Digital signal processing",
-        "number": "",
+        "doi": "10.1109/ICC.2017.7996967",
+        "keywords": "type:classification, Speech,Acoustics,Manuals,Feature extraction,Software,Digital signal processing,Semantics,Aphasia,Automated aphasia diagnosis,Acoustic properties,Digital signal processing",
         "pages": "1-6",
         "title": "You speak, we detect: Quantitative diagnosis of anomic and Wernicke's aphasia using digital signal processing techniques",
-        "type": "INPROCEEDINGS",
-        "volume": "",
+        "type": "inproceedings",
         "year": "2017"
     },
-    "Wade": {
-        "author": "J. Wade, B. Petheram, R. Cain and",
+    "Le2014": {
+        "author": "Le, Duc and Licata, Keli and Mercado, Elizabeth and Persad, Carol and Provost, Emily Mower",
+        "booktitle": "2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+        "doi": "10.1109/ICASSP.2014.6854524",
+        "keywords": "type:web-application, Speech,Feature extraction,Acoustics,Medical treatment,Radio frequency,Niobium,Speech processing,aphasia,speech-language disorder,machine learning,clinical application",
+        "pages": "4853-4857",
+        "title": "Automatic analysis of speech quality for aphasia treatment",
+        "type": "inproceedings",
+        "year": "2014"
+    },
+    "Le2016": {
+        "author": "Le, Duc and Provost, Emily Mower",
+        "booktitle": "Interspeech 2016",
+        "doi": "10.21437/Interspeech.2016-213",
+        "issn": "2958-1796",
+        "keywords": "type:recognition",
+        "pages": "2681--2685",
+        "title": "Improving Automatic Recognition of Aphasic Speech with AphasiaBank",
+        "type": "inproceedings",
+        "year": "2016"
+    },
+    "Qin2020": {
+        "author": "Qin, Ying and Lee, Tan and Kong, Anthony Pak Hin",
+        "doi": "10.1109/JSTSP.2019.2956371",
+        "journal": "IEEE Journal of Selected Topics in Signal Processing",
+        "keywords": "type:classification,Feature extraction,Acoustics,Task analysis,Speech processing,Speech recognition,Robustness,Linguistics,Pathological speech assessment,aphasia,Cantonese,automatic speech recognition,deep neural network (DNN)",
+        "number": "2",
+        "pages": "331-345",
+        "title": "Automatic Assessment of Speech Impairment in Cantonese-Speaking People with Aphasia",
+        "type": "article",
+        "volume": "14",
+        "year": "2020"
+    },
+    "Wade2001": {
+        "author": "J. Wade and B. Petheram and R. Cain",
         "doi": "10.1080/09638280110044932",
-        "eprint": "  https://doi.org/10.1080/09638280110044932 % Improving Automatic Recognition of Aphasic Speech with AphasiaBank Duc Le and Emily Mower Provost, INTERSPEECH 2016 September 8\u201312, 2016, San Francisco, USA % Herath HMDPM, Weraniyagoda WASA, Rajapaksha RTM, Wijesekara PADSN, Sudheera KLK, Chong PHJ. Automatic Assessment of Aphasic Speech Sensed by Audio Sensors for Classification into Aphasia Severity Levels to Recommend Speech Therapies. Sensors (Basel). 2022 Sep 14,22(18):6966. doi: 10.3390/s22186966. PMID: 36146316, PMCID: PMC9501827.",
+        "eprint": "  https://doi.org/10.1080/09638280110044932",
         "journal": "Disability and Rehabilitation",
+        "keywords": "type:recognition",
         "note": "PMID: 11697458",
         "number": "14",
         "pages": "604--613",
